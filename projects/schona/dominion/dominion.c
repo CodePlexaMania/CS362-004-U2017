@@ -649,25 +649,27 @@ int SmithyEffect(int currentPlayer, int handPos, struct gameState *state)
 {
 	int i;
 	
+	//+3 Cards
 	for (i = 0; i < 3; i++)
 	{
-		drawCard(currentPlayer, state);
-		discardCard(handPos, currentPlayer, state, 0);		//discard card from hand
+	  drawCard(currentPlayer, state);
 	}
-
+			
+	//discard card from hand
+	discardCard(++handPos, currentPlayer, state, 0);
 	return 0;
 }
 
 //refactored into own function
 //bug added
-int AdventurerEffect(int currentPlayer, int handPos, struct gameState *state)
+int AdventurerEffect(int currentPlayer, struct gameState *state)
 {
 	int z = 0;
 	int drawntreasure = 0;
 	int cardDrawn;
 	int temphand[MAX_HAND];
 	
-	while(drawntreasure < 2)
+	while(drawntreasure <= 2)
 	{
 		if (state->deckCount[currentPlayer] < 1) //if the deck is empty we need to shuffle discard and add to deck
 			shuffle(currentPlayer, state);
@@ -676,7 +678,7 @@ int AdventurerEffect(int currentPlayer, int handPos, struct gameState *state)
 		
 		cardDrawn = state->hand[currentPlayer][state->handCount[currentPlayer]-1];//top card of hand is most recently drawn card.
 		
-		if ((cardDrawn == copper && cardDrawn == silver) || cardDrawn == gold)
+		if (cardDrawn == copper || cardDrawn == silver || cardDrawn == gold)
 			drawntreasure++;
 		else
 		{
@@ -785,7 +787,7 @@ int MineEffect(int currentPlayer, int choice1, int choice2, int handPos, struct 
 	//discard trashed card
 	for (i = 0; i < state->handCount[currentPlayer]; i++)
 	{
-		if (state->hand[currentPlayer][i] == i+j)
+		if (state->hand[currentPlayer][i] == ++j)
 		{
 			discardCard(i, currentPlayer, state, 0);			
 			break;
@@ -814,7 +816,7 @@ int cardEffect(int card, int choice1, int choice2, int choice3, struct gameState
     {
     case adventurer:
 		//refactored into own function 
-		return AdventurerEffect(currentPlayer, handPos, state);
+		return AdventurerEffect(currentPlayer, state);
 			
     case council_room:
       //+4 Cards
@@ -1364,4 +1366,3 @@ int updateCoins(int player, struct gameState *state, int bonus)
 
 
 //end of dominion.c
-
