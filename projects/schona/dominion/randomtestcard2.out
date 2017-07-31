@@ -1,0 +1,5574 @@
+Random Testing: Council Room Card
+
+Iteration #1:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #2:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #3:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #4:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #5:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #6:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #7:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #8:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #9:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #10:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #11:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #12:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #13:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #14:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #15:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #16:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #17:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #18:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #19:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #20:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #21:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #22:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #23:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #24:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #25:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #26:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #27:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #28:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #29:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #30:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #31:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #32:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #33:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #34:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #35:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #36:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #37:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #38:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #39:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #40:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #41:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #42:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #43:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #44:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #45:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #46:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #47:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #48:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #49:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #50:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #51:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #52:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #53:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #54:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #55:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #56:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #57:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #58:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #59:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #60:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #61:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #62:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #63:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #64:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #65:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #66:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #67:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #68:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #69:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #70:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #71:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #72:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #73:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #74:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #75:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #76:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #77:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+FAILED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #78:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #79:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #80:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #81:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #82:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #83:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #84:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #85:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #86:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #87:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #88:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #89:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #90:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #91:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #92:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #93:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #94:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #95:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #96:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #97:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #98:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #99:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #100:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #101:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #102:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #103:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #104:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #105:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #106:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #107:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #108:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #109:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #110:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #111:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #112:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #113:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #114:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #115:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #116:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #117:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #118:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #119:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #120:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #121:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #122:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #123:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #124:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #125:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #126:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #127:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #128:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #129:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #130:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #131:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #132:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #133:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #134:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #135:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #136:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #137:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #138:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #139:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #140:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #141:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #142:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #143:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #144:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #145:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #146:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+FAILED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #147:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #148:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #149:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #150:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #151:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #152:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #153:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #154:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #155:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #156:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #157:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #158:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #159:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #160:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #161:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #162:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #163:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #164:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #165:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #166:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #167:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #168:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #169:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #170:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #171:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #172:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #173:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #174:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #175:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #176:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #177:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #178:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #179:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #180:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #181:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #182:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #183:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #184:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #185:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #186:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #187:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #188:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #189:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #190:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #191:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #192:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #193:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #194:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #195:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #196:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #197:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #198:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #199:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #200:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #201:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #202:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #203:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #204:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #205:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #206:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #207:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #208:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #209:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #210:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #211:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #212:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #213:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #214:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #215:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #216:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #217:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #218:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #219:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #220:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #221:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #222:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #223:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #224:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #225:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #226:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #227:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #228:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #229:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #230:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #231:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #232:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #233:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #234:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #235:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #236:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #237:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #238:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #239:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #240:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #241:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #242:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #243:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #244:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #245:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #246:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #247:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #248:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #249:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #250:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #251:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #252:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #253:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #254:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #255:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #256:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #257:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #258:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #259:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #260:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #261:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #262:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #263:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #264:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #265:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #266:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #267:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #268:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #269:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #270:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #271:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #272:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #273:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #274:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #275:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #276:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #277:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #278:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #279:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #280:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #281:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #282:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+FAILED: Other player drew card as well.
+FAILED: Other player drew card as well.
+FAILED: Other player drew card as well.
+
+Iteration #283:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #284:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #285:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #286:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #287:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #288:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #289:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #290:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #291:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+FAILED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #292:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #293:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #294:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #295:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #296:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #297:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #298:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #299:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #300:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #301:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #302:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #303:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #304:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #305:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #306:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #307:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #308:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #309:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #310:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #311:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #312:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #313:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #314:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #315:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #316:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #317:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #318:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #319:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #320:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #321:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #322:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #323:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #324:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #325:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #326:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #327:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #328:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #329:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #330:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #331:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #332:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #333:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #334:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #335:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #336:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #337:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #338:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #339:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #340:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #341:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #342:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #343:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #344:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #345:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #346:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #347:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #348:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #349:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #350:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #351:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #352:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #353:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #354:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #355:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #356:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #357:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #358:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #359:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #360:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #361:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #362:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #363:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #364:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #365:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #366:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #367:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #368:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #369:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #370:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #371:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #372:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #373:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #374:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #375:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #376:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #377:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #378:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #379:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #380:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #381:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #382:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #383:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #384:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #385:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #386:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #387:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #388:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #389:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #390:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #391:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #392:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #393:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #394:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #395:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #396:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #397:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #398:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #399:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #400:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #401:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #402:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #403:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #404:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #405:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #406:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #407:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #408:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #409:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #410:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #411:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #412:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #413:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #414:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #415:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #416:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #417:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #418:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #419:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #420:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #421:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #422:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #423:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #424:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #425:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #426:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #427:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #428:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #429:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #430:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #431:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #432:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #433:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #434:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #435:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #436:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #437:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #438:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #439:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #440:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #441:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #442:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #443:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #444:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #445:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #446:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #447:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #448:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #449:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #450:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #451:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #452:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #453:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #454:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #455:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #456:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #457:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #458:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #459:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #460:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #461:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #462:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #463:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #464:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #465:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #466:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #467:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #468:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #469:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #470:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #471:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #472:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #473:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #474:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #475:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #476:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #477:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #478:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #479:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #480:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #481:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #482:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #483:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #484:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #485:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #486:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #487:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #488:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #489:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #490:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #491:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #492:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #493:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #494:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #495:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #496:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #497:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #498:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #499:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #500:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #501:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #502:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #503:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #504:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #505:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #506:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #507:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #508:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #509:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #510:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #511:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #512:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #513:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #514:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #515:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #516:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #517:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #518:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #519:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #520:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #521:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #522:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #523:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #524:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #525:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #526:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #527:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #528:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #529:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #530:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #531:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #532:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #533:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #534:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #535:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #536:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #537:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #538:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #539:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #540:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #541:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #542:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #543:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #544:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #545:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #546:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #547:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #548:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+
+Iteration #549:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Iteration #550:
+PASSED: CouncilRoomEffect(): return 0.
+PASSED: Player that played card gained 3 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: NumBuys increased by 1.
+PASSED: Council Room Card not in hand.
+PASSED: Played card count increased by one.
+PASSED: Other player drew card as well.
+PASSED: Other player drew card as well.
+
+Function 'updateCoins'
+Lines executed:81.82% of 11
+
+Function 'gainCard'
+Lines executed:0.00% of 13
+
+Function 'discardCard'
+Lines executed:92.31% of 13
+
+Function 'cardEffect'
+Lines executed:0.00% of 181
+
+Function 'CouncilRoomEffect'
+Lines executed:100.00% of 9
+
+Function 'MineEffect'
+Lines executed:0.00% of 12
+
+Function 'FeastEffect'
+Lines executed:0.00% of 16
+
+Function 'VillageEffect'
+Lines executed:100.00% of 5
+
+Function 'AdventurerEffect'
+Lines executed:100.00% of 17
+
+Function 'SmithyEffect'
+Lines executed:0.00% of 5
+
+Function 'getCost'
+Lines executed:0.00% of 30
+
+Function 'drawCard'
+Lines executed:100.00% of 22
+
+Function 'getWinners'
+Lines executed:0.00% of 24
+
+Function 'scoreFor'
+Lines executed:0.00% of 24
+
+Function 'isGameOver'
+Lines executed:0.00% of 10
+
+Function 'endTurn'
+Lines executed:0.00% of 20
+
+Function 'whoseTurn'
+Lines executed:0.00% of 2
+
+Function 'fullDeckCount'
+Lines executed:0.00% of 9
+
+Function 'supplyCount'
+Lines executed:0.00% of 2
+
+Function 'handCard'
+Lines executed:0.00% of 3
+
+Function 'numHandCards'
+Lines executed:0.00% of 2
+
+Function 'buyCard'
+Lines executed:0.00% of 13
+
+Function 'playCard'
+Lines executed:0.00% of 14
+
+Function 'shuffle'
+Lines executed:100.00% of 16
+
+Function 'initializeGame'
+Lines executed:95.16% of 62
+
+Function 'kingdomCards'
+Lines executed:0.00% of 13
+
+Function 'newGame'
+Lines executed:0.00% of 3
+
+Function 'compare'
+Lines executed:83.33% of 6
+
+File 'dominion.c'
+Lines executed:27.65% of 557
+Creating 'dominion.c.gcov'
+

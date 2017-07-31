@@ -1,0 +1,1290 @@
+Random Testing: Village Card
+
+Iteration #1:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #2:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #3:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #4:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #5:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #6:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #7:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #8:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #9:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #10:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #11:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #12:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #13:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #14:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #15:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #16:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #17:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #18:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #19:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #20:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #21:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #22:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #23:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #24:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #25:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #26:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #27:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #28:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #29:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #30:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #31:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #32:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #33:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #34:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #35:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #36:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #37:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #38:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #39:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #40:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #41:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #42:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #43:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #44:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #45:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #46:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #47:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #48:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #49:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #50:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #51:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #52:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #53:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #54:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #55:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #56:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #57:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #58:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #59:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #60:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #61:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #62:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #63:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #64:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #65:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #66:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #67:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #68:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #69:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #70:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #71:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #72:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #73:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #74:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #75:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #76:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #77:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #78:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #79:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #80:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #81:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #82:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #83:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #84:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #85:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #86:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #87:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #88:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #89:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #90:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #91:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #92:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #93:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #94:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #95:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #96:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #97:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #98:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #99:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #100:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #101:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #102:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #103:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #104:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #105:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #106:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #107:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #108:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #109:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #110:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #111:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #112:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #113:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #114:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #115:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #116:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #117:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #118:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #119:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #120:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #121:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #122:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #123:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #124:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #125:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #126:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #127:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #128:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #129:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #130:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #131:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #132:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #133:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #134:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #135:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #136:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #137:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #138:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #139:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #140:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #141:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #142:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #143:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #144:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #145:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #146:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #147:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #148:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #149:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #150:
+PASSED: VillageEffect(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+PASSED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Function 'updateCoins'
+Lines executed:81.82% of 11
+
+Function 'gainCard'
+Lines executed:0.00% of 13
+
+Function 'discardCard'
+Lines executed:92.31% of 13
+
+Function 'cardEffect'
+Lines executed:0.00% of 181
+
+Function 'CouncilRoomEffect'
+Lines executed:0.00% of 9
+
+Function 'MineEffect'
+Lines executed:0.00% of 12
+
+Function 'FeastEffect'
+Lines executed:0.00% of 16
+
+Function 'VillageEffect'
+Lines executed:100.00% of 5
+
+Function 'AdventurerEffect'
+Lines executed:100.00% of 17
+
+Function 'SmithyEffect'
+Lines executed:0.00% of 5
+
+Function 'getCost'
+Lines executed:0.00% of 30
+
+Function 'drawCard'
+Lines executed:100.00% of 22
+
+Function 'getWinners'
+Lines executed:0.00% of 24
+
+Function 'scoreFor'
+Lines executed:0.00% of 24
+
+Function 'isGameOver'
+Lines executed:0.00% of 10
+
+Function 'endTurn'
+Lines executed:0.00% of 20
+
+Function 'whoseTurn'
+Lines executed:0.00% of 2
+
+Function 'fullDeckCount'
+Lines executed:0.00% of 9
+
+Function 'supplyCount'
+Lines executed:0.00% of 2
+
+Function 'handCard'
+Lines executed:0.00% of 3
+
+Function 'numHandCards'
+Lines executed:0.00% of 2
+
+Function 'buyCard'
+Lines executed:0.00% of 13
+
+Function 'playCard'
+Lines executed:0.00% of 14
+
+Function 'shuffle'
+Lines executed:100.00% of 16
+
+Function 'initializeGame'
+Lines executed:95.16% of 62
+
+Function 'kingdomCards'
+Lines executed:0.00% of 13
+
+Function 'newGame'
+Lines executed:0.00% of 3
+
+Function 'compare'
+Lines executed:83.33% of 6
+
+File 'dominion.c'
+Lines executed:26.03% of 557
+Creating 'dominion.c.gcov'
+
