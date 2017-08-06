@@ -1,0 +1,182 @@
+Andy Schon
+CS362
+Assignment 5
+Bug Reports
+
+
+actionAdventurer Bug Report
+--------------------------------------------
+
+Title: actionAdventurer discarding copper treasure cards
+
+Class: Serious Bug
+
+Date:  8-5-2017
+Reported By: Andy Schon
+Email: schona@oregonstate.edu
+
+Product: Dominion Game
+Platform: flip, Oregon State
+
+Description
+--------------------------------------------
+Adventurer is supposed to continually draw cards until it has found exactly 2 treasure cards (gold, silver, or copper) and not discard ANY treasure cards, ever.
+
+Steps to Reproduce
+--------------------------------------------
+1.	Initialize game counts
+2.	Put Adventurer card in player’s hand to be evaluated
+3.	Set pre and post states equal
+4.	Call actionAdventurer
+5.	Evaluate if any treasure cards made it into the discard pile
+
+Expected Result
+--------------------------------------------
+Gain 2 treasure cards and no treasure cards in discard pile
+
+Actual Results
+--------------------------------------------
+Discard pile contains copper cards. In random testing, this improper discarding causes a segmentation fault and ends the random testing early.
+
+Workarounds
+--------------------------------------------
+
+Attachments
+--------------------------------------------
+Output from unit test below:
+
+PASSED: AdventurerEffect returns 0.
+FAILED: 2 cards added correctly.
+FAILED: No card in Discard are treasure.
+PASSED: player 2 hand remains same from start.
+PASSED: player 2 hand count remains same from start.
+PASSED: player 2 discard remains same from start.
+PASSED: player 2 discard count remains same from start.
+PASSED: player 2 deck remains same from start.
+PASSED: player 2 deck count remains same from start.
+
+Output excerpt from random test below:
+
+…
+
+Iteration #37:
+PASSED: actionAdventurer(): return 0.
+PASSED: Gained cards came from player's own pile.
+FAILED: Last 2 cards are treasure cards.
+PASSED: Discard count >= 0.
+PASSED: Player's numActions has not changed.
+PASSED: Player's playedCardCount has not changed.
+PASSED: Player's coins has not changed.
+FAILED: No other changes to game state.
+
+Iteration #38:
+PASSED: actionAdventurer(): return 0.
+PASSED: Gained cards came from player's own pile.
+FAILED: Last 2 cards are treasure cards.
+PASSED: Discard count >= 0.
+PASSED: Player's numActions has not changed.
+PASSED: Player's playedCardCount has not changed.
+PASSED: Player's coins has not changed.
+FAILED: No other changes to game state.
+
+Iteration #39:
+PASSED: actionAdventurer(): return 0.
+PASSED: Gained cards came from player's own pile.
+FAILED: Last 2 cards are treasure cards.
+PASSED: Discard count >= 0.
+PASSED: Player's numActions has not changed.
+PASSED: Player's playedCardCount has not changed.
+PASSED: Player's coins has not changed.
+FAILED: No other changes to game state.
+
+…
+
+
+actionVillage Bug Report
+--------------------------------------------
+
+Title: actionVillage incorrect number of game actions
+
+Class: Serious Bug
+
+Date:  8-6-2017
+Reported By: Andy Schon
+Email: schona@oregonstate.edu
+
+Product: Dominion Game
+Platform: flip, Oregon State
+
+Description
+--------------------------------------------
+Village incorrectly increments the number of actions of the game state by 3, not 2.
+
+Steps to Reproduce
+--------------------------------------------
+1.	Initialize game counts
+2.	Put Village card in player’s hand to be evaluated
+3.	Set pre and post states equal
+4.	Call actionVillage
+5.	Evaluate if number of actions has increased by 2
+
+Expected Result
+--------------------------------------------
+Number of game state actions has increased by 2.
+
+Actual Results
+--------------------------------------------
+Number of game state actions has increased by 3.
+
+Workarounds
+--------------------------------------------
+
+Attachments
+--------------------------------------------
+Output from unit test below:
+
+PASSED: actionVillage returns 0.
+PASSED: Hand count incremented by one.
+FAILED: Number of actions has increased by two.
+PASSED: Discard count increased by one.
+PASSED: Village card discarded.
+PASSED: player 2 hand remains same from start.
+PASSED: player 2 hand count remains same from start.
+PASSED: player 2 discard remains same from start.
+PASSED: player 2 discard count remains same from start.
+PASSED: player 2 deck remains same from start.
+PASSED: player 2 deck count remains same from start.
+Output excerpt from random test below:
+
+…
+
+Iteration #146:
+PASSED: actionVillage(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+FAILED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #147:
+PASSED: actionVillage(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+FAILED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #148:
+PASSED: actionVillage(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+FAILED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+
+Iteration #149:
+PASSED: actionVillage(): return 0.
+PASSED: Player gained 0 cards.
+PASSED: Cards drawn came from player's own pile.
+PASSED: Village card discarded.
+FAILED: Number of actions has increased by two.
+PASSED: Played card count increased by one.
+…
